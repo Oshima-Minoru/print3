@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+:root {
+  --main_color: #d71618;
+  --main_color_opacity: rgba(255, 0, 0, .8);
+}
+
+
+/* 
+.head .banner-overlay {
+	background-color: rgba(255, 0, 0, .8);
+}
+
+.head .rightclip {
+  background-color: #d71618;
+}
+
+.print_btn_top~#primary {
+    border: 1px solid #d71618;
+    background-color: #FDFDFD;
+} */
